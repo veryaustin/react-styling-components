@@ -1,10 +1,10 @@
-import autobind from 'autobind-decorator'
-import React from 'react'
+import autobind from 'autobind-decorator';
+import React from 'react';
 
-import Carousel from './carousel'
-import Frame from './frame'
-import Nav from './nav'
-import Slide from './slide'
+import Carousel from './carousel';
+import Frame from './frame';
+import Nav from './nav';
+import Slide from './slide';
 
 @autobind
 export default class SlideApp extends React.Component {
